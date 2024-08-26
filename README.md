@@ -6,7 +6,7 @@
 
 
 	
-## <picture><img src = <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = 50px></picture> **Sobre mí**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="25"><b> Mis habilidades</b>
 
 
 
