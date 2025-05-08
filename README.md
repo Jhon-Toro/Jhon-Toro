@@ -16,7 +16,7 @@
 - Desarrollo de aplicaciones Moviles
 - Desarrollo FrontEnd
 - Desarrollo BackEnd
-- Mi portafolio personal [Link](https://jhontoro.online/)
+- Mi portafolio personal [Link](https://jhon-toro.github.io/portfolio-2025/)
 
 <br><br>
 
@@ -61,8 +61,8 @@
 <ul>
 
 <li>
-<a href="https://wa.me/3044361707" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  3044361707-%2300acee.svg?color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://wa.me/3238674523" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp:  3238674523-%2300acee.svg?color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
